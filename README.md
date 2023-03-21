@@ -12,4 +12,4 @@ Shweta Kushwaha <br />
 NSUT, DTU, IP, SRM, VIT, MANIPAL, THAPAR, IITs, IIITs, NITs
 
 ## Greek Alphabets
-Alpha, Beta, Gamma, Delta
+Alpha, Beta, Gamma
