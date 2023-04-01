@@ -5,5 +5,5 @@ Tutorial SIG for Git and GitHub
 Hardik Chhabra
 
 ## Attendees
-Vansh Kakar
+Vansh Kakar <br />
 Shweta Kushwaha
