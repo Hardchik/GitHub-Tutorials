@@ -7,3 +7,4 @@ Hardik Chhabra
 ## Attendees
 Vansh Kakar <br />
 Shweta Kushwaha
+nsut dtu 
