@@ -8,4 +8,4 @@ Hardik Chhabra
 Vansh Kakar <br />
 Shweta Kushwaha
 nsut dtu 
-IP,SRM,VIT, MANIPAL,THAPAR
+IP,SRM,VIT, MANIPAL,THAPAR,IIT, iiit, nit
