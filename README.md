@@ -9,3 +9,4 @@ Vansh Kakar <br />
 Shweta Kushwaha
 nsut dtu 
 IP,SRM,VIT, MANIPAL,THAPAR,IIT, iiit, nit
+alpha, beta gamma
