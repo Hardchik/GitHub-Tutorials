@@ -6,7 +6,10 @@ Hardik Chhabra
 
 ## Attendees
 Vansh Kakar <br />
-Shweta Kushwaha
-nsut dtu 
-IP,SRM,VIT, MANIPAL,THAPAR,IIT, iiit, nit
+Shweta Kushwaha <br />
+
+## Colleges
+NSUT, DTU, IP, SRM, VIT, MANIPAL, THAPAR, IITs, IIITs, NITs
+
+## Greek Alphabets
 alpha, beta gamma
